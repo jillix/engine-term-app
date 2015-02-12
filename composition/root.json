@@ -9,7 +9,8 @@
             "title": "Engine Terminal",
             "template": {
                 "to": "body",
-                "html": "/root.html"
+                "html": "/root.html",
+                "render": true
             }
         },
         "css": [
