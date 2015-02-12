@@ -1,23 +1,23 @@
 {
-  "name": "engine-collab",
+  "name": "engine-term",
   "version": "1.0.0",
-  "description": "A real time colaboration application for the Engine framework.",
+  "description": "An Engine application using the terminal module.",
   "main": "./composition/root.json",
+  "dependencies": {
+    "pty.js": "^0.2.5"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:jillix/engine-collab.git"
+    "url": "https://github.com/IonicaBizau/engine-term-app.git"
   },
-  "keywords": [
-    "engine",
-    "collab"
-  ],
   "author": "jillix <contact@jillix.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jillix/engine-collab/issues"
+    "url": "https://github.com/IonicaBizau/engine-term-app/issues"
   },
-  "homepage": "https://github.com/jillix/engine-collab"
+  "homepage": "https://github.com/IonicaBizau/engine-term-app"
 }

@@ -1,5 +1,5 @@
-# Engine Collab
-A real time colaboration application for the Engine framework.
+# engine-term
+An Engine application using the terminal module.
 
 ## How to contribute
 1. File an issue in the repository, using the bug tracker, describing the
