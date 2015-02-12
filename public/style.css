@@ -1,0 +1,8 @@
+body {
+  padding-top: 50px;
+}
+textarea {
+    width: 100%;
+    height: 800px;
+    resize: vertical;
+}

@@ -1,0 +1,22 @@
+{
+    "roles": {
+        "*": true
+    },
+    "name": "root",
+    "module": "github.com|adioo|view|v0.0.1",
+    "client": {
+        "config": {
+            "title": "Engine Terminal",
+            "template": {
+                "to": "body",
+                "html": "/root.html"
+            }
+        },
+        "css": [
+            "/style.css"
+        ],
+        "html": [
+            "/root.html"
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "engine-collab",
+  "version": "1.0.0",
+  "description": "A real time colaboration application for the Engine framework.",
+  "main": "./composition/root.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jillix/engine-collab.git"
+  },
+  "keywords": [
+    "engine",
+    "collab"
+  ],
+  "author": "jillix <contact@jillix.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jillix/engine-collab/issues"
+  },
+  "homepage": "https://github.com/jillix/engine-collab"
+}
