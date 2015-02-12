@@ -5,6 +5,7 @@
     "name": "root",
     "module": "github.com|adioo|view|v0.0.1",
     "client": {
+        "load": ["term"],
         "config": {
             "title": "Engine Terminal",
             "template": {

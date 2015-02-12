@@ -1,0 +1,13 @@
+{
+    "roles": {
+        "*": true
+    },
+    "name": "term",
+    "module": "github.com|jillix|engine-term|v0.0.1",
+    "client": {
+        "load": ["term"],
+        "config": {
+            "title": "Engine Terminal"
+        }
+    }
+}
